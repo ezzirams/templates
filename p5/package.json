@@ -1,0 +1,17 @@
+{
+  "name": "p5",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js ."
+  },
+  "author": "ezra",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "express": "^4.19.2",
+    "ws": "^8.13.0",
+    "@types/p5": "^1.7.6"
+  }
+}
+
